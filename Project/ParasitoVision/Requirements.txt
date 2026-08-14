@@ -1,0 +1,9 @@
+datasets
+ultralytics
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+torch
+gradio
